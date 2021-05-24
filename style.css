@@ -1,0 +1,42 @@
+body{
+  text-align:center;
+}
+hr{
+    width:100px;
+    height:6px;
+    background-color:black;
+    border-color:Yellow;
+    
+}
+#title{
+  background:lightblue;
+}
+#why{
+   width:70%;
+    margin-left:200px;  
+}
+
+.menu{
+    list-style:none;
+    position:fixed;
+    z-index:1;
+    cursor:pointer;
+    top:10px;
+    right:10px;
+    
+}
+#me{
+    width:2px
+
+}
+.link{
+    float:left;
+    font-size:20px;
+    font-family:monospace;
+    padding-left:20px;
+}
+.link:hover{
+    font-size:25px;
+    text-decoration:underline;
+}
+
